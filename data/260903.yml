@@ -1,17 +1,19 @@
 about:
-  description: Command-line program to download image galleries and collections from several image hosting sites
+  description:
+  |
+    Command-line program to download image galleries and collections from several image hosting sites
   license: GPL-2.0
   homepage: https://discord.gg/rSzQwRvGnE
   head: 4f0abb2
   archived: false
   latestVersion: v1.32.10
-  collectedAt: 2026-09-03T05:12:31Z
+  collectedAt: 2026-09-03T22:38:30Z
 timeline:
   created: 2014-10-12
   lastCommit: 2026-08-29
   lastRelease: 2026-08-29
 popularity:
-  star: 19389
+  star: 19397
   watcher: 173
   fork: 1465
   release: 207
@@ -23,37 +25,37 @@ language:
   Shell: 71349
   Makefile: 1713
   Dockerfile: 1198
-totalLine: 4384233
+totalBytes: 4384233
 recent:
   last30d:
     since: 2026-08-04
     release: 1
     mergedPR: 0
     openPR: 0
-    closedIssue: 16
-    openIssue: 17
+    closedIssue: 19
+    openIssue: 14
     commit: 1
   last90d:
     since: 2026-06-05
     release: 9
     mergedPR: 0
     openPR: 0
-    closedIssue: 94
-    openIssue: 44
+    closedIssue: 97
+    openIssue: 41
     commit: 9
   last180d:
     since: 2026-03-07
     release: 14
     mergedPR: 5
     openPR: 7
-    closedIssue: 311
-    openIssue: 123
+    closedIssue: 314
+    openIssue: 120
     commit: 142
   last360d:
     since: 2025-09-08
     release: 26
     mergedPR: 72
     openPR: 16
-    closedIssue: 940
-    openIssue: 246
+    closedIssue: 943
+    openIssue: 243
     commit: 962
