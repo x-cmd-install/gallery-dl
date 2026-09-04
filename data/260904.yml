@@ -7,13 +7,13 @@ about:
   head: 2adf2a8
   archived: false
   latestVersion: v1.32.11
-  collectedAt: 2026-09-04T20:07:58Z
+  collectedAt: 2026-09-04T20:34:17Z
 timeline:
   created: 2014-10-12
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 19412
+  star: 19413
   watcher: 173
   fork: 1466
   release: 208
@@ -84,7 +84,7 @@ total:
   commit: 7999
 ---
 path: /home/runner/.x-repo/github.com/mikf/gallery-dl
-collectedAt: 2026-09-04T20:08:00Z
+collectedAt: 2026-09-04T20:34:19Z
 loc:
   Python:
     code: 103819
