@@ -5,15 +5,15 @@ about:
   head: 2adf2a8
   archived: false
   latestVersion: "v1.32.11"
-  collectedAt: 2026-09-07T05:05:36Z
+  collectedAt: 2026-09-07T19:18:14Z
 timeline:
   created: 2014-10-12
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 19436
+  star: 19439
   watcher: 175
-  fork: 1468
+  fork: 1469
   release: 208
   contributor: 210
   pullRequest: 747
@@ -30,59 +30,59 @@ recent:
     release: 2
     mergedPR: 0
     openPR: 0
-    closedIssue: 25
-    openIssue: 12
+    closedIssue: 27
+    openIssue: 10
     commit: 2
   last60d:
     since: 2026-07-09
     release: 6
     mergedPR: 0
     openPR: 0
-    closedIssue: 51
-    openIssue: 26
+    closedIssue: 54
+    openIssue: 23
     commit: 6
   last90d:
     since: 2026-06-09
     release: 9
     mergedPR: 0
     openPR: 0
-    closedIssue: 101
-    openIssue: 39
+    closedIssue: 104
+    openIssue: 36
     commit: 9
   last180d:
     since: 2026-03-11
     release: 13
     mergedPR: 5
     openPR: 6
-    closedIssue: 310
-    openIssue: 114
+    closedIssue: 314
+    openIssue: 110
     commit: 120
   last360d:
     since: 2025-09-12
     release: 27
     mergedPR: 72
     openPR: 16
-    closedIssue: 943
-    openIssue: 240
+    closedIssue: 948
+    openIssue: 235
     commit: 931
   last720d:
     since: 2024-09-17
     release: 51
     mergedPR: 157
     openPR: 26
-    closedIssue: 2295
-    openIssue: 458
+    closedIssue: 2303
+    openIssue: 450
     commit: 2310
 total:
   release: 208
   mergedPR: 486
   openPR: 48
-  closedIssue: 6602
-  openIssue: 1104
+  closedIssue: 6615
+  openIssue: 1091
   commit: 7999
 ---
 path: /home/runner/.x-repo/github.com/mikf/gallery-dl
-collectedAt: 2026-09-07T05:05:40Z
+collectedAt: 2026-09-07T19:18:17Z
 loc:
   Python:
     code: 103819
@@ -258,7 +258,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/docker.yml:19'
 ---
 eget:
-  collectedAt: 2026-09-07T05:05:40+00:00
+  collectedAt: 2026-09-07T19:18:18+00:00
   platform:
     darwin/arm64:
       name:  null
