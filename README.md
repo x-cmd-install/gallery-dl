@@ -7,7 +7,7 @@ Command-line program to download image galleries and collections from several im
 - **Latest release**: `v1.32.11` (2026-09-04)
 - **Last commit**: 2026-09-04
 - **License**: GPL-2.0
-- **Stars**: 19446 · **Forks**: 1469 · **Open issues**: 7707 · **Contributors**: 210
+- **Stars**: 19450 · **Forks**: 1468 · **Open issues**: 7709 · **Contributors**: 210
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/gallery-dl> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:29:49Z._
+_Last regenerated: 2026-09-09T05:18:38Z._
