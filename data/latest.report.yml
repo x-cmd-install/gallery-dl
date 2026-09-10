@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.32.11"
   latestRelease: "v1.32.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:49:02Z
+  collectedAt: 2026-09-10T23:00:16Z
 timeline:
   created: 2014-10-12
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 19470
+  star: 19469
   watcher: 175
   fork: 1467
   release: 208
@@ -86,7 +86,7 @@ total:
   commit: 7999
 ---
 path: /home/runner/.x-repo/github.com/mikf/gallery-dl
-collectedAt: 2026-09-10T20:49:06Z
+collectedAt: 2026-09-10T23:00:27Z
 loc:
   Python:
     code: 103819
