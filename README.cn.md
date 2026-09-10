@@ -4,41 +4,13 @@
 
 Command-line program to download image galleries and collections from several image hosting sites
 
-![gallery-dl](https://repo.x-cmd.io/gallery-dl.svg)
+![gallery-dl](https://repo.x-cmd.io/gallery-dl.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install gallery-dl
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/mikf/gallery-dl>
-- **官网**: <https://discord.gg/rSzQwRvGnE>
-- **许可证**: GPL-2.0
-
-## 发布
-
-- **最新版本**: `v1.32.11` (2026-09-04)
-- **最近提交**: 2026-09-04
-- **发布时间**: 2026-09-04T17:26:50Z
-
-## 流行度
-
-- **Star**: 19,466 · **Fork**: 1,467 · **开放 issue**: 7,711 · **贡献者**: 210
-
-## 累计统计
-
-- **发布数**: 208 · **已合并 PR**: 486 · **开放 PR**: 48 · **已关闭 issue**: 6620 · **开放 issue**: 1091 · **提交数**: 7999
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 0 | 0 | 30 | 10 | 2 |
-| 90d | 2026-06-12 | 9 | 0 | 0 | 104 | 34 | 9 |
-| 360d | 2025-09-15 | 26 | 72 | 16 | 941 | 232 | 931 |
 
 ## 代码规模
 
@@ -62,6 +34,52 @@ x install gallery-dl
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **SAST** (0/10) — no SAST tool detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/mikf/gallery-dl>
+- **官网**: <https://discord.gg/rSzQwRvGnE>
+- **许可证**: GPL-2.0
+
+## 发布
+
+- **最新版本**: `v1.32.11` (2026-09-04)
+- **最近提交**: 2026-09-04
+
+## 流行度
+
+- **Star**: 19,470 · **Fork**: 1,467 · **开放 issue**: 7,712 · **贡献者**: 210
+
+## 累计统计
+
+- **发布数**: 208 · **已合并 PR**: 486 · **开放 PR**: 48 · **已关闭 issue**: 6620 · **开放 issue**: 1092 · **提交数**: 7999
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 0 | 0 | 30 | 11 | 2 |
+| last60d | 2026-07-12 | 5 | 0 | 0 | 56 | 23 | 6 |
+| 90d | 2026-06-12 | 9 | 0 | 0 | 104 | 35 | 9 |
+| last180d | 2026-03-14 | 13 | 3 | 6 | 309 | 111 | 120 |
+| 360d | 2025-09-15 | 26 | 72 | 16 | 941 | 233 | 931 |
+| last720d | 2024-09-20 | 51 | 156 | 26 | 2297 | 447 | 2297 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/gallery-dl) 上共有 **130** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**101** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.32.11` | ✅ latest |
+| Debian 14 | `1.32.10` | ⚠️ outdated |
+| Debian 13 | `1.29.7` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.31.10` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.26.9` | ⚠️ outdated |
+| Homebrew | `1.32.11` | ✅ latest |
+| Nix unstable | `1.32.10` | ⚠️ outdated |
+| Void | `1.32.10` | ⚠️ outdated |
+| Alpine edge | `1.32.11` | ✅ latest |
+
 ## 改进这些数据
 
 gallery-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gallery-dl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +89,4 @@ gallery-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:22:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:49:12Z._
