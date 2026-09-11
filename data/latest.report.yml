@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.32.11"
   latestRelease: "v1.32.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:19:36Z
+  collectedAt: 2026-09-11T19:39:53Z
 timeline:
   created: 2014-10-12
   lastCommit: 2026-09-04
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 19470
-  watcher: 175
+  star: 19478
+  watcher: 176
   fork: 1467
   release: 208
   contributor: 210
   pullRequest: 747
-  issue: 7713
+  issue: 7716
 language:
   Python: 4309973
   Shell: 71349
@@ -34,59 +34,59 @@ recent:
     release: 2
     mergedPR: 0
     openPR: 0
-    closedIssue: 28
-    openIssue: 12
+    closedIssue: 29
+    openIssue: 14
     commit: 2
   last60d:
     since: 2026-07-13
     release: 5
     mergedPR: 0
     openPR: 0
-    closedIssue: 55
-    openIssue: 23
+    closedIssue: 56
+    openIssue: 25
     commit: 6
   last90d:
     since: 2026-06-13
     release: 9
     mergedPR: 0
     openPR: 0
-    closedIssue: 103
-    openIssue: 34
+    closedIssue: 104
+    openIssue: 36
     commit: 9
   last180d:
     since: 2026-03-15
     release: 13
     mergedPR: 3
     openPR: 4
-    closedIssue: 305
-    openIssue: 112
+    closedIssue: 306
+    openIssue: 114
     commit: 120
   last360d:
     since: 2025-09-16
     release: 26
     mergedPR: 72
     openPR: 16
-    closedIssue: 937
-    openIssue: 234
+    closedIssue: 938
+    openIssue: 236
     commit: 931
   last720d:
     since: 2024-09-21
     release: 51
     mergedPR: 156
     openPR: 26
-    closedIssue: 2296
-    openIssue: 448
+    closedIssue: 2297
+    openIssue: 450
     commit: 2296
 total:
   release: 208
   mergedPR: 486
   openPR: 48
-  closedIssue: 6620
-  openIssue: 1093
+  closedIssue: 6621
+  openIssue: 1095
   commit: 7999
 ---
 path: /home/runner/.x-repo/github.com/mikf/gallery-dl
-collectedAt: 2026-09-11T05:19:40Z
+collectedAt: 2026-09-11T19:39:57Z
 loc:
   Python:
     code: 103819
