@@ -47,38 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,531 · **Forks**: 1,476 · **Open issues**: 7,718 · **Contributors**: 210
+- **Stars**: 19,635 · **Forks**: 1,480 · **Open issues**: 7,719 · **Contributors**: 210
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 486 · **Open PRs**: 48 · **Closed issues**: 6632 · **Open issues**: 1086 · **Commits**: 8000
+- **Releases**: 209 · **Merged PRs**: 486 · **Open PRs**: 48 · **Closed issues**: 6632 · **Open issues**: 1087 · **Commits**: 8000
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 0 | 0 | 35 | 8 | 3 |
-| last60d | 2026-07-15 | 6 | 0 | 0 | 61 | 17 | 6 |
-| 90d | 2026-06-15 | 9 | 0 | 0 | 110 | 27 | 10 |
-| last180d | 2026-03-17 | 14 | 3 | 4 | 313 | 103 | 75 |
-| 360d | 2025-09-18 | 27 | 72 | 16 | 940 | 224 | 891 |
-| last720d | 2024-09-23 | 52 | 156 | 26 | 2307 | 441 | 2290 |
-
-## Distribution status
-
-Reported by **129** distros on [repology.org](https://repology.org/project/gallery-dl). **7** are ✅ on the latest upstream release, **109** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.32.12` | ✅ latest |
-| Debian 14 | `1.32.11` | ⚠️ outdated |
-| Debian 13 | `1.29.7` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.31.10` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.26.9` | ⚠️ outdated |
-| Homebrew | `1.32.11` | ⚠️ outdated |
-| Nix unstable | `1.32.10` | ⚠️ outdated |
-| Void | `1.32.10` | ⚠️ outdated |
-| Alpine edge | `1.32.11` | ⚠️ outdated |
+| 30d | 2026-08-15 | 3 | 0 | 0 | 35 | 9 | 3 |
+| last60d | 2026-07-16 | 6 | 0 | 0 | 61 | 18 | 6 |
+| 90d | 2026-06-16 | 9 | 0 | 0 | 108 | 28 | 10 |
+| last180d | 2026-03-18 | 14 | 3 | 4 | 304 | 103 | 75 |
+| 360d | 2025-09-19 | 27 | 72 | 16 | 937 | 225 | 891 |
+| last720d | 2024-09-24 | 52 | 155 | 26 | 2306 | 442 | 2289 |
 
 ## Improve this data
 
@@ -89,4 +73,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:24:44Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:31:36Z._
