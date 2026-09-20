@@ -4,7 +4,7 @@
 
 Command-line program to download image galleries and collections from several image hosting sites
 
-![gallery-dl](https://repo.x-cmd.io/gallery-dl.svg)
+[![x-cmd/install — gallery-dl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gallery-dl.svg)](https://x-cmd.com/install/gallery-dl)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.32.12` (2026-09-12)
-- **Last commit**: 2026-09-12
+- **Latest**: `v1.32.13` (2026-09-19)
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 19,727 · **Forks**: 1,485 · **Open issues**: 7,729 · **Contributors**: 210
+- **Stars**: 19,768 · **Forks**: 1,488 · **Open issues**: 7,733 · **Contributors**: 210
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 486 · **Open PRs**: 47 · **Closed issues**: 6643 · **Open issues**: 1086 · **Commits**: 8000
+- **Releases**: 210 · **Merged PRs**: 486 · **Open PRs**: 47 · **Closed issues**: 6644 · **Open issues**: 1089 · **Commits**: 8001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 0 | 0 | 35 | 8 | 3 |
-| last60d | 2026-07-20 | 5 | 0 | 0 | 61 | 17 | 6 |
-| 90d | 2026-06-20 | 9 | 0 | 0 | 106 | 27 | 10 |
-| last180d | 2026-03-22 | 13 | 2 | 4 | 297 | 97 | 75 |
-| 360d | 2025-09-23 | 27 | 71 | 16 | 921 | 221 | 891 |
-| last720d | 2024-09-28 | 52 | 154 | 25 | 2303 | 440 | 2276 |
+| 30d | 2026-08-21 | 4 | 0 | 0 | 37 | 10 | 4 |
+| last60d | 2026-07-22 | 6 | 0 | 0 | 61 | 18 | 7 |
+| 90d | 2026-06-22 | 10 | 0 | 0 | 106 | 29 | 11 |
+| last180d | 2026-03-24 | 14 | 2 | 3 | 295 | 97 | 76 |
+| 360d | 2025-09-25 | 27 | 70 | 16 | 913 | 222 | 892 |
+| last720d | 2024-09-30 | 52 | 154 | 25 | 2297 | 442 | 2269 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:26:06Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:32:26Z._
