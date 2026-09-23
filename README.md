@@ -4,7 +4,7 @@
 
 Command-line program to download image galleries and collections from several image hosting sites
 
-[![x-cmd/install — gallery-dl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gallery-dl.svg)](https://x-cmd.com/install/gallery-dl)
+[![x-cmd/install — gallery-dl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gallery-dl.svg)](https://x-cmd.com/install/gallery-dl)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,797 · **Forks**: 1,490 · **Open issues**: 7,736 · **Contributors**: 210
+- **Stars**: 19,809 · **Forks**: 1,489 · **Open issues**: 7,740 · **Contributors**: 210
 
 ## Totals (cumulative)
 
-- **Releases**: 210 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6647 · **Open issues**: 1089 · **Commits**: 8001
+- **Releases**: 210 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6651 · **Open issues**: 1089 · **Commits**: 8001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 0 | 0 | 37 | 12 | 4 |
-| last60d | 2026-07-24 | 6 | 0 | 0 | 60 | 17 | 5 |
-| 90d | 2026-06-24 | 9 | 0 | 0 | 104 | 31 | 10 |
-| last180d | 2026-03-26 | 14 | 2 | 2 | 291 | 96 | 50 |
-| 360d | 2025-09-27 | 27 | 68 | 16 | 905 | 222 | 867 |
-| last720d | 2024-10-02 | 52 | 154 | 24 | 2294 | 441 | 2256 |
+| 30d | 2026-08-24 | 4 | 0 | 0 | 40 | 13 | 4 |
+| last60d | 2026-07-25 | 6 | 0 | 0 | 60 | 18 | 5 |
+| 90d | 2026-06-25 | 9 | 0 | 0 | 103 | 31 | 10 |
+| last180d | 2026-03-27 | 14 | 1 | 2 | 291 | 95 | 50 |
+| 360d | 2025-09-28 | 27 | 68 | 16 | 908 | 221 | 867 |
+| last720d | 2024-10-03 | 52 | 154 | 24 | 2297 | 440 | 2255 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:35:25Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:45:58Z._

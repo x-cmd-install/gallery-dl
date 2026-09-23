@@ -4,7 +4,7 @@
 
 Command-line program to download image galleries and collections from several image hosting sites
 
-[![x-cmd/install — gallery-dl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gallery-dl.svg?lang=zh)](https://x-cmd.com/install/gallery-dl)
+[![x-cmd/install — gallery-dl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gallery-dl.svg?lang=zh)](https://x-cmd.com/install/gallery-dl)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install gallery-dl
 
 ## 流行度
 
-- **Star**: 19,797 · **Fork**: 1,490 · **开放 issue**: 7,736 · **贡献者**: 210
+- **Star**: 19,809 · **Fork**: 1,489 · **开放 issue**: 7,740 · **贡献者**: 210
 
 ## 累计统计
 
-- **发布数**: 210 · **已合并 PR**: 486 · **开放 PR**: 46 · **已关闭 issue**: 6647 · **开放 issue**: 1089 · **提交数**: 8001
+- **发布数**: 210 · **已合并 PR**: 486 · **开放 PR**: 46 · **已关闭 issue**: 6651 · **开放 issue**: 1089 · **提交数**: 8001
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 0 | 0 | 37 | 12 | 4 |
-| last60d | 2026-07-24 | 6 | 0 | 0 | 60 | 17 | 5 |
-| 90d | 2026-06-24 | 9 | 0 | 0 | 104 | 31 | 10 |
-| last180d | 2026-03-26 | 14 | 2 | 2 | 291 | 96 | 50 |
-| 360d | 2025-09-27 | 27 | 68 | 16 | 905 | 222 | 867 |
-| last720d | 2024-10-02 | 52 | 154 | 24 | 2294 | 441 | 2256 |
+| 30d | 2026-08-24 | 4 | 0 | 0 | 40 | 13 | 4 |
+| last60d | 2026-07-25 | 6 | 0 | 0 | 60 | 18 | 5 |
+| 90d | 2026-06-25 | 9 | 0 | 0 | 103 | 31 | 10 |
+| last180d | 2026-03-27 | 14 | 1 | 2 | 291 | 95 | 50 |
+| 360d | 2025-09-28 | 27 | 68 | 16 | 908 | 221 | 867 |
+| last720d | 2024-10-03 | 52 | 154 | 24 | 2297 | 440 | 2255 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ gallery-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:35:27Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:45:59Z._
