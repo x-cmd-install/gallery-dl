@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,809 · **Forks**: 1,489 · **Open issues**: 7,740 · **Contributors**: 210
+- **Stars**: 19,817 · **Forks**: 1,490 · **Open issues**: 7,740 · **Contributors**: 210
 
 ## Totals (cumulative)
 
-- **Releases**: 210 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6651 · **Open issues**: 1089 · **Commits**: 8001
+- **Releases**: 210 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6652 · **Open issues**: 1088 · **Commits**: 8001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 4 | 0 | 0 | 40 | 13 | 4 |
-| last60d | 2026-07-25 | 6 | 0 | 0 | 60 | 18 | 5 |
-| 90d | 2026-06-25 | 9 | 0 | 0 | 103 | 31 | 10 |
-| last180d | 2026-03-27 | 14 | 1 | 2 | 291 | 95 | 50 |
-| 360d | 2025-09-28 | 27 | 68 | 16 | 908 | 221 | 867 |
-| last720d | 2024-10-03 | 52 | 154 | 24 | 2297 | 440 | 2255 |
+| 30d | 2026-08-25 | 4 | 0 | 0 | 40 | 13 | 4 |
+| last60d | 2026-07-26 | 5 | 0 | 0 | 59 | 18 | 5 |
+| 90d | 2026-06-26 | 9 | 0 | 0 | 102 | 30 | 10 |
+| last180d | 2026-03-28 | 14 | 1 | 2 | 290 | 94 | 50 |
+| 360d | 2025-09-29 | 27 | 68 | 16 | 906 | 221 | 867 |
+| last720d | 2024-10-04 | 52 | 154 | 24 | 2293 | 439 | 2250 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:45:58Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:13:37Z._
