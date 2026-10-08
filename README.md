@@ -30,8 +30,8 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **SAST** (0/10) — no SAST tool detected
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,964 · **Forks**: 1,500 · **Open issues**: 7,769 · **Contributors**: 209
+- **Stars**: 19,975 · **Forks**: 1,502 · **Open issues**: 7,771 · **Contributors**: 209
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6740 · **Open issues**: 1029 · **Commits**: 8003
+- **Releases**: 212 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6743 · **Open issues**: 1028 · **Commits**: 8003
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 4 | 0 | 0 | 44 | 13 | 4 |
-| last60d | 2026-08-08 | 6 | 0 | 0 | 76 | 18 | 6 |
-| 90d | 2026-07-09 | 10 | 0 | 0 | 107 | 27 | 10 |
-| last180d | 2026-04-10 | 16 | 0 | 0 | 279 | 78 | 30 |
-| 360d | 2025-10-12 | 28 | 66 | 16 | 898 | 192 | 792 |
-| last720d | 2024-10-17 | 53 | 152 | 24 | 2319 | 396 | 2190 |
+| 30d | 2026-09-08 | 4 | 0 | 0 | 44 | 12 | 4 |
+| last60d | 2026-08-09 | 6 | 0 | 0 | 78 | 17 | 6 |
+| 90d | 2026-07-10 | 10 | 0 | 0 | 109 | 26 | 10 |
+| last180d | 2026-04-11 | 16 | 0 | 0 | 277 | 76 | 30 |
+| 360d | 2025-10-13 | 27 | 66 | 15 | 896 | 191 | 792 |
+| last720d | 2024-10-18 | 53 | 152 | 24 | 2318 | 395 | 2185 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:26:50Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:36:14Z._
