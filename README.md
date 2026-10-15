@@ -30,9 +30,9 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **SAST** (0/10) — no SAST tool detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,067 · **Forks**: 1,510 · **Open issues**: 7,781 · **Contributors**: 209
+- **Stars**: 20,085 · **Forks**: 1,512 · **Open issues**: 7,781 · **Contributors**: 209
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 4 | 0 | 0 | 41 | 14 | 4 |
-| last60d | 2026-08-15 | 7 | 0 | 0 | 80 | 20 | 7 |
-| 90d | 2026-07-16 | 10 | 0 | 0 | 106 | 29 | 10 |
-| last180d | 2026-04-17 | 17 | 0 | 0 | 264 | 76 | 22 |
-| 360d | 2025-10-19 | 28 | 63 | 15 | 885 | 190 | 769 |
-| last720d | 2024-10-24 | 54 | 152 | 24 | 2303 | 396 | 2172 |
+| 30d | 2026-09-15 | 4 | 0 | 0 | 41 | 14 | 4 |
+| last60d | 2026-08-16 | 7 | 0 | 0 | 79 | 19 | 7 |
+| 90d | 2026-07-17 | 10 | 0 | 0 | 105 | 29 | 10 |
+| last180d | 2026-04-18 | 17 | 0 | 0 | 259 | 76 | 22 |
+| 360d | 2025-10-20 | 28 | 63 | 14 | 883 | 189 | 769 |
+| last720d | 2024-10-25 | 54 | 152 | 23 | 2301 | 396 | 2167 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:23:37Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:05:32Z._
