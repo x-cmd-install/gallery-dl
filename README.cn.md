@@ -31,8 +31,8 @@ x install gallery-dl
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **SAST** (0/10) — no SAST tool detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **SAST** (0/10) — no SAST tool detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install gallery-dl
 
 ## 流行度
 
-- **Star**: 20,165 · **Fork**: 1,520 · **开放 issue**: 7,788 · **贡献者**: 209
+- **Star**: 20,177 · **Fork**: 1,521 · **开放 issue**: 7,789 · **贡献者**: 209
 
 ## 累计统计
 
-- **发布数**: 214 · **已合并 PR**: 486 · **开放 PR**: 46 · **已关闭 issue**: 6760 · **开放 issue**: 1028 · **提交数**: 8005
+- **发布数**: 214 · **已合并 PR**: 486 · **开放 PR**: 46 · **已关闭 issue**: 6760 · **开放 issue**: 1029 · **提交数**: 8005
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 4 | 0 | 0 | 46 | 8 | 4 |
-| last60d | 2026-08-21 | 8 | 0 | 0 | 86 | 17 | 8 |
-| 90d | 2026-07-22 | 10 | 0 | 0 | 110 | 25 | 9 |
-| last180d | 2026-04-23 | 18 | 0 | 0 | 255 | 69 | 21 |
-| 360d | 2025-10-25 | 29 | 61 | 13 | 884 | 184 | 753 |
-| last720d | 2024-10-30 | 54 | 150 | 23 | 2296 | 391 | 2143 |
+| 30d | 2026-09-21 | 4 | 0 | 0 | 46 | 9 | 4 |
+| last60d | 2026-08-22 | 8 | 0 | 0 | 86 | 18 | 8 |
+| 90d | 2026-07-23 | 10 | 0 | 0 | 108 | 24 | 9 |
+| last180d | 2026-04-24 | 18 | 0 | 0 | 252 | 70 | 21 |
+| 360d | 2025-10-26 | 29 | 61 | 13 | 880 | 185 | 753 |
+| last720d | 2024-10-31 | 54 | 150 | 23 | 2295 | 392 | 2143 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ gallery-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:21:23Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:12:47Z._

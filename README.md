@@ -31,8 +31,8 @@ Overall score: **4.5 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **SAST** (0/10) — no SAST tool detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **SAST** (0/10) — no SAST tool detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,165 · **Forks**: 1,520 · **Open issues**: 7,788 · **Contributors**: 209
+- **Stars**: 20,177 · **Forks**: 1,521 · **Open issues**: 7,789 · **Contributors**: 209
 
 ## Totals (cumulative)
 
-- **Releases**: 214 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6760 · **Open issues**: 1028 · **Commits**: 8005
+- **Releases**: 214 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6760 · **Open issues**: 1029 · **Commits**: 8005
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 4 | 0 | 0 | 46 | 8 | 4 |
-| last60d | 2026-08-21 | 8 | 0 | 0 | 86 | 17 | 8 |
-| 90d | 2026-07-22 | 10 | 0 | 0 | 110 | 25 | 9 |
-| last180d | 2026-04-23 | 18 | 0 | 0 | 255 | 69 | 21 |
-| 360d | 2025-10-25 | 29 | 61 | 13 | 884 | 184 | 753 |
-| last720d | 2024-10-30 | 54 | 150 | 23 | 2296 | 391 | 2143 |
+| 30d | 2026-09-21 | 4 | 0 | 0 | 46 | 9 | 4 |
+| last60d | 2026-08-22 | 8 | 0 | 0 | 86 | 18 | 8 |
+| 90d | 2026-07-23 | 10 | 0 | 0 | 108 | 24 | 9 |
+| last180d | 2026-04-24 | 18 | 0 | 0 | 252 | 70 | 21 |
+| 360d | 2025-10-26 | 29 | 61 | 13 | 880 | 185 | 753 |
+| last720d | 2024-10-31 | 54 | 150 | 23 | 2295 | 392 | 2143 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:21:22Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:12:46Z._
