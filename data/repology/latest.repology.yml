@@ -1,5 +1,533 @@
-- repo: pureos_landing
-  subrepo: landing/main
+- repo: alpine_3_17
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-fish-completion
+  visiblename: gallery-dl-fish-completion
+  version: 1.24.5
+  origversion: 1.24.5-r0
+  status: outdated
+  summary: Fish completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_17
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.24.5
+  origversion: 1.24.5-r0
+  status: outdated
+  summary: CLI tool to download image galleries
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_17
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-zsh-completion
+  visiblename: gallery-dl-zsh-completion
+  version: 1.24.5
+  origversion: 1.24.5-r0
+  status: outdated
+  summary: Zsh completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_17
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-bash-completion
+  visiblename: gallery-dl-bash-completion
+  version: 1.24.5
+  origversion: 1.24.5-r0
+  status: outdated
+  summary: Bash completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_17
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.24.5
+  origversion: 1.24.5-r0
+  status: outdated
+  summary: CLI tool to download image galleries (documentation)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.25.8
+  origversion: 1.25.8-r0
+  status: outdated
+  summary: CLI tool to download image galleries
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-bash-completion
+  visiblename: gallery-dl-bash-completion
+  version: 1.25.8
+  origversion: 1.25.8-r0
+  status: outdated
+  summary: Bash completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.25.8
+  origversion: 1.25.8-r0
+  status: outdated
+  summary: CLI tool to download image galleries (documentation)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-fish-completion
+  visiblename: gallery-dl-fish-completion
+  version: 1.25.8
+  origversion: 1.25.8-r0
+  status: outdated
+  summary: Fish completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-pyc
+  visiblename: gallery-dl-pyc
+  version: 1.25.8
+  origversion: 1.25.8-r0
+  status: outdated
+  summary: Precompiled Python bytecode for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.18.0
+  origversion: 1.18.0-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - misc
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-zsh-completion
+  visiblename: gallery-dl-zsh-completion
+  version: 1.25.8
+  origversion: 1.25.8-r0
+  status: outdated
+  summary: Zsh completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: CLI tool to download image galleries
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-bash-completion
+  visiblename: gallery-dl-bash-completion
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: Bash completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: CLI tool to download image galleries (documentation)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-fish-completion
+  visiblename: gallery-dl-fish-completion
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: Fish completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-pyc
+  visiblename: gallery-dl-pyc
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: Precompiled Python bytecode for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-zsh-completion
+  visiblename: gallery-dl-zsh-completion
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: Zsh completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: CLI tool to download image galleries
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-bash-completion
+  visiblename: gallery-dl-bash-completion
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: Bash completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: CLI tool to download image galleries (documentation)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: gnuguix
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.32.1
+  origversion: null
+  status: outdated
+  summary: Command-line program to download images from several sites
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-fish-completion
+  visiblename: gallery-dl-fish-completion
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: Fish completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-pyc
+  visiblename: gallery-dl-pyc
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: Precompiled Python bytecode for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-zsh-completion
+  visiblename: gallery-dl-zsh-completion
+  version: 1.26.9
+  origversion: 1.26.9-r0
+  status: outdated
+  summary: Zsh completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.27.7
+  origversion: 1.27.7-r0
+  status: outdated
+  summary: CLI tool to download image galleries
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-bash-completion
+  visiblename: gallery-dl-bash-completion
+  version: 1.27.7
+  origversion: 1.27.7-r0
+  status: outdated
+  summary: Bash completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.27.7
+  origversion: 1.27.7-r0
+  status: outdated
+  summary: CLI tool to download image galleries (documentation)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-fish-completion
+  visiblename: gallery-dl-fish-completion
+  version: 1.27.7
+  origversion: 1.27.7-r0
+  status: outdated
+  summary: Fish completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-pyc
+  visiblename: gallery-dl-pyc
+  version: 1.27.7
+  origversion: 1.27.7-r0
+  status: outdated
+  summary: Precompiled Python bytecode for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-zsh-completion
+  visiblename: gallery-dl-zsh-completion
+  version: 1.27.7
+  origversion: 1.27.7-r0
+  status: outdated
+  summary: Zsh completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: pardus_21
+  subrepo: main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.18.0
+  origversion: 1.18.0-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - misc
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.29.6
+  origversion: 1.29.6-r0
+  status: outdated
+  summary: CLI tool to download image galleries
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-bash-completion
+  visiblename: gallery-dl-bash-completion
+  version: 1.29.6
+  origversion: 1.29.6-r0
+  status: outdated
+  summary: Bash completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.29.6
+  origversion: 1.29.6-r0
+  status: outdated
+  summary: CLI tool to download image galleries (documentation)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-fish-completion
+  visiblename: gallery-dl-fish-completion
+  version: 1.29.6
+  origversion: 1.29.6-r0
+  status: outdated
+  summary: Fish completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-pyc
+  visiblename: gallery-dl-pyc
+  version: 1.29.6
+  origversion: 1.29.6-r0
+  status: outdated
+  summary: Precompiled Python bytecode for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-zsh-completion
+  visiblename: gallery-dl-zsh-completion
+  version: 1.29.6
+  origversion: 1.29.6-r0
+  status: outdated
+  summary: Zsh completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.30.10
+  origversion: 1.30.10-r0
+  status: outdated
+  summary: CLI tool to download image galleries
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-bash-completion
+  visiblename: gallery-dl-bash-completion
+  version: 1.30.10
+  origversion: 1.30.10-r0
+  status: outdated
+  summary: Bash completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.30.10
+  origversion: 1.30.10-r0
+  status: outdated
+  summary: CLI tool to download image galleries (documentation)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: parrot
+  subrepo: parrot/main
   srcname: gallery-dl
   binnames:
     - gallery-dl
@@ -10,22 +538,126 @@
   maintainers:
     - unit193@debian.org
   categories:
-    - web
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.25.3
-  origversion: 1.25.3-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
     - misc
-- repo: raspbian_stable
-  subrepo: main
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-fish-completion
+  visiblename: gallery-dl-fish-completion
+  version: 1.30.10
+  origversion: 1.30.10-r0
+  status: outdated
+  summary: Fish completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-pyc
+  visiblename: gallery-dl-pyc
+  version: 1.30.10
+  origversion: 1.30.10-r0
+  status: outdated
+  summary: Precompiled Python bytecode for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-zsh-completion
+  visiblename: gallery-dl-zsh-completion
+  version: 1.30.10
+  origversion: 1.30.10-r0
+  status: outdated
+  summary: Zsh completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.32.1
+  origversion: 1.32.1-r0
+  status: outdated
+  summary: CLI tool to download image galleries
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-bash-completion
+  visiblename: gallery-dl-bash-completion
+  version: 1.32.1
+  origversion: 1.32.1-r0
+  status: outdated
+  summary: Bash completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.32.1
+  origversion: 1.32.1-r0
+  status: outdated
+  summary: CLI tool to download image galleries (documentation)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-fish-completion
+  visiblename: gallery-dl-fish-completion
+  version: 1.32.1
+  origversion: 1.32.1-r0
+  status: outdated
+  summary: Fish completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-pyc
+  visiblename: gallery-dl-pyc
+  version: 1.32.1
+  origversion: 1.32.1-r0
+  status: outdated
+  summary: Precompiled Python bytecode for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gallery-dl
+  binname: gallery-dl-zsh-completion
+  visiblename: gallery-dl-zsh-completion
+  version: 1.32.1
+  origversion: 1.32.1-r0
+  status: outdated
+  summary: Zsh completions for gallery-dl
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: gallery-dl
   binnames:
     - gallery-dl
@@ -37,674 +669,6 @@
     - unit193@debian.org
   categories:
     - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.32.17
-  origversion: 1.32.17-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - misc
-- repo: alpine_3_17
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-fish-completion
-  visiblename: gallery-dl-fish-completion
-  version: 1.24.5
-  origversion: 1.24.5-r0
-  status: outdated
-  summary: Fish completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_17
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.24.5
-  origversion: 1.24.5-r0
-  status: outdated
-  summary: CLI tool to download image galleries
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: gallery-dl
-  binname: gallery-dl-fishcomp
-  visiblename: gallery-dl-fishcomp
-  version: 1.32.9
-  origversion: 1.32.9-r0
-  status: outdated
-  summary: CLI program to download image galleries/collections (fish completions)
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_17
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-zsh-completion
-  visiblename: gallery-dl-zsh-completion
-  version: 1.24.5
-  origversion: 1.24.5-r0
-  status: outdated
-  summary: Zsh completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_17
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-bash-completion
-  visiblename: gallery-dl-bash-completion
-  version: 1.24.5
-  origversion: 1.24.5-r0
-  status: outdated
-  summary: Bash completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_17
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.24.5
-  origversion: 1.24.5-r0
-  status: outdated
-  summary: CLI tool to download image galleries (documentation)
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.25.8
-  origversion: 1.25.8-r0
-  status: outdated
-  summary: CLI tool to download image galleries
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-bash-completion
-  visiblename: gallery-dl-bash-completion
-  version: 1.25.8
-  origversion: 1.25.8-r0
-  status: outdated
-  summary: Bash completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.25.8
-  origversion: 1.25.8-r0
-  status: outdated
-  summary: CLI tool to download image galleries (documentation)
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-fish-completion
-  visiblename: gallery-dl-fish-completion
-  version: 1.25.8
-  origversion: 1.25.8-r0
-  status: outdated
-  summary: Fish completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-pyc
-  visiblename: gallery-dl-pyc
-  version: 1.25.8
-  origversion: 1.25.8-r0
-  status: outdated
-  summary: Precompiled Python bytecode for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-zsh-completion
-  visiblename: gallery-dl-zsh-completion
-  version: 1.25.8
-  origversion: 1.25.8-r0
-  status: outdated
-  summary: Zsh completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: CLI tool to download image galleries
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: gallery-dl
-  binname: gallery-dl-man
-  visiblename: gallery-dl-man
-  version: 1.32.9
-  origversion: 1.32.9-r0
-  status: outdated
-  summary: CLI program to download image galleries/collections (manual pages)
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-bash-completion
-  visiblename: gallery-dl-bash-completion
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: Bash completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: CLI tool to download image galleries (documentation)
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-fish-completion
-  visiblename: gallery-dl-fish-completion
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: Fish completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-pyc
-  visiblename: gallery-dl-pyc
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: Precompiled Python bytecode for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-zsh-completion
-  visiblename: gallery-dl-zsh-completion
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: Zsh completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: CLI tool to download image galleries
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-bash-completion
-  visiblename: gallery-dl-bash-completion
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: Bash completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: CLI tool to download image galleries (documentation)
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-fish-completion
-  visiblename: gallery-dl-fish-completion
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: Fish completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-pyc
-  visiblename: gallery-dl-pyc
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: Precompiled Python bytecode for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: gallery-dl
-  binname: gallery-dl-bashcomp
-  visiblename: gallery-dl-bashcomp
-  version: 1.32.9
-  origversion: 1.32.9-r0
-  status: outdated
-  summary: CLI program to download image galleries/collections (bash completions)
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-zsh-completion
-  visiblename: gallery-dl-zsh-completion
-  version: 1.26.9
-  origversion: 1.26.9-r0
-  status: outdated
-  summary: Zsh completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.27.7
-  origversion: 1.27.7-r0
-  status: outdated
-  summary: CLI tool to download image galleries
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-bash-completion
-  visiblename: gallery-dl-bash-completion
-  version: 1.27.7
-  origversion: 1.27.7-r0
-  status: outdated
-  summary: Bash completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.27.7
-  origversion: 1.27.7-r0
-  status: outdated
-  summary: CLI tool to download image galleries (documentation)
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-fish-completion
-  visiblename: gallery-dl-fish-completion
-  version: 1.27.7
-  origversion: 1.27.7-r0
-  status: outdated
-  summary: Fish completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-pyc
-  visiblename: gallery-dl-pyc
-  version: 1.27.7
-  origversion: 1.27.7-r0
-  status: outdated
-  summary: Precompiled Python bytecode for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-zsh-completion
-  visiblename: gallery-dl-zsh-completion
-  version: 1.27.7
-  origversion: 1.27.7-r0
-  status: outdated
-  summary: Zsh completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.29.6
-  origversion: 1.29.6-r0
-  status: outdated
-  summary: CLI tool to download image galleries
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-bash-completion
-  visiblename: gallery-dl-bash-completion
-  version: 1.29.6
-  origversion: 1.29.6-r0
-  status: outdated
-  summary: Bash completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.29.6
-  origversion: 1.29.6-r0
-  status: outdated
-  summary: CLI tool to download image galleries (documentation)
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-fish-completion
-  visiblename: gallery-dl-fish-completion
-  version: 1.29.6
-  origversion: 1.29.6-r0
-  status: outdated
-  summary: Fish completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-pyc
-  visiblename: gallery-dl-pyc
-  version: 1.29.6
-  origversion: 1.29.6-r0
-  status: outdated
-  summary: Precompiled Python bytecode for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-zsh-completion
-  visiblename: gallery-dl-zsh-completion
-  version: 1.29.6
-  origversion: 1.29.6-r0
-  status: outdated
-  summary: Zsh completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.30.10
-  origversion: 1.30.10-r0
-  status: outdated
-  summary: CLI tool to download image galleries
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-bash-completion
-  visiblename: gallery-dl-bash-completion
-  version: 1.30.10
-  origversion: 1.30.10-r0
-  status: outdated
-  summary: Bash completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.30.10
-  origversion: 1.30.10-r0
-  status: outdated
-  summary: CLI tool to download image galleries (documentation)
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-fish-completion
-  visiblename: gallery-dl-fish-completion
-  version: 1.30.10
-  origversion: 1.30.10-r0
-  status: outdated
-  summary: Fish completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.32.9
-  origversion: 1.32.9-r0
-  status: outdated
-  summary: CLI program to download image galleries/collections (documentation)
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-pyc
-  visiblename: gallery-dl-pyc
-  version: 1.30.10
-  origversion: 1.30.10-r0
-  status: outdated
-  summary: Precompiled Python bytecode for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-zsh-completion
-  visiblename: gallery-dl-zsh-completion
-  version: 1.30.10
-  origversion: 1.30.10-r0
-  status: outdated
-  summary: Zsh completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.32.1
-  origversion: 1.32.1-r0
-  status: outdated
-  summary: CLI tool to download image galleries
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-bash-completion
-  visiblename: gallery-dl-bash-completion
-  version: 1.32.1
-  origversion: 1.32.1-r0
-  status: outdated
-  summary: Bash completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-doc
-  visiblename: gallery-dl-doc
-  version: 1.32.1
-  origversion: 1.32.1-r0
-  status: outdated
-  summary: CLI tool to download image galleries (documentation)
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-fish-completion
-  visiblename: gallery-dl-fish-completion
-  version: 1.32.1
-  origversion: 1.32.1-r0
-  status: outdated
-  summary: Fish completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-pyc
-  visiblename: gallery-dl-pyc
-  version: 1.32.1
-  origversion: 1.32.1-r0
-  status: outdated
-  summary: Precompiled Python bytecode for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: gallery-dl
-  binname: gallery-dl-zsh-completion
-  visiblename: gallery-dl-zsh-completion
-  version: 1.32.1
-  origversion: 1.32.1-r0
-  status: outdated
-  summary: Zsh completions for gallery-dl
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
 - repo: alpine_edge
   subrepo: community
   srcname: gallery-dl
@@ -718,18 +682,6 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-2.0-or-later
-- repo: pkgsrc_2026_3
-  srcname: net/gallery-dl
-  binname: gallery-dl
-  visiblename: net/gallery-dl
-  version: 1.30.10
-  origversion: null
-  status: outdated
-  summary: Command-line program to download image galleries and collections
-  maintainers:
-    - leot@netbsd.org
-  categories:
-    - net
 - repo: alpine_edge
   subrepo: community
   srcname: gallery-dl
@@ -845,6 +797,50 @@
 - repo: chimera
   subrepo: user
   srcname: gallery-dl
+  binname: gallery-dl-bashcomp
+  visiblename: gallery-dl-bashcomp
+  version: 1.32.9
+  origversion: 1.32.9-r0
+  status: outdated
+  summary: CLI program to download image galleries/collections (bash completions)
+  licenses:
+    - GPL-2.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: gallery-dl
+  binname: gallery-dl-doc
+  visiblename: gallery-dl-doc
+  version: 1.32.9
+  origversion: 1.32.9-r0
+  status: outdated
+  summary: CLI program to download image galleries/collections (documentation)
+  licenses:
+    - GPL-2.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: gallery-dl
+  binname: gallery-dl-fishcomp
+  visiblename: gallery-dl-fishcomp
+  version: 1.32.9
+  origversion: 1.32.9-r0
+  status: outdated
+  summary: CLI program to download image galleries/collections (fish completions)
+  licenses:
+    - GPL-2.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: gallery-dl
+  binname: gallery-dl-man
+  visiblename: gallery-dl-man
+  version: 1.32.9
+  origversion: 1.32.9-r0
+  status: outdated
+  summary: CLI program to download image galleries/collections (manual pages)
+  licenses:
+    - GPL-2.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: gallery-dl
   binname: gallery-dl-pycache
   visiblename: gallery-dl-pycache
   version: 1.32.9
@@ -870,19 +866,6 @@
   version: 1.32.14
   origversion: null
   status: outdated
-- repo: debian_11
-  subrepo: bullseye/main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.18.0
-  origversion: 1.18.0-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - misc
 - repo: debian_12
   subrepo: bookworm/main
   srcname: gallery-dl
@@ -941,9 +924,9 @@
   binnames:
     - gallery-dl
   visiblename: gallery-dl
-  version: 1.32.17
-  origversion: 1.32.17-1
-  status: outdated
+  version: 1.32.18
+  origversion: 1.32.18-1
+  status: newest
   maintainers:
     - unit193@debian.org
   categories:
@@ -1004,9 +987,9 @@
   srcname: www/gallery-dl
   binname: gallery-dl
   visiblename: www/gallery-dl
-  version: 1.32.15
+  version: 1.32.18
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line program to download image galleries and collections
   maintainers:
     - jbeich@freebsd.org
@@ -1090,14 +1073,6 @@
     - GPL-2
   categories:
     - net-misc
-- repo: gnuguix
-  srcname: gallery-dl
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.32.1
-  origversion: null
-  status: outdated
-  summary: Command-line program to download images from several sites
 - repo: homebrew
   srcname: gallery-dl
   visiblename: gallery-dl
@@ -1125,18 +1100,6 @@
     - unit193@debian.org
   categories:
     - misc
-- repo: pkgsrc_current
-  srcname: net/gallery-dl
-  binname: gallery-dl
-  visiblename: net/gallery-dl
-  version: 1.32.16
-  origversion: null
-  status: outdated
-  summary: Command-line program to download image galleries and collections
-  maintainers:
-    - leot@netbsd.org
-  categories:
-    - net
 - repo: liguros_stable
   srcname: net-misc/gallery-dl
   visiblename: net-misc/gallery-dl
@@ -1241,6 +1204,18 @@
     - GPL-2
   categories:
     - net-misc
+- repo: pkgsrc_2026_2
+  srcname: net/gallery-dl
+  binname: gallery-dl
+  visiblename: net/gallery-dl
+  version: 1.30.10
+  origversion: null
+  status: outdated
+  summary: Command-line program to download image galleries and collections
+  maintainers:
+    - leot@netbsd.org
+  categories:
+    - net
 - repo: liguros_develop
   srcname: net-misc/gallery-dl
   visiblename: net-misc/gallery-dl
@@ -1267,19 +1242,6 @@
     - GPL-2
   categories:
     - net-misc
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.18.0
-  origversion: 1.18.0-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - web
 - repo: liguros_develop
   srcname: net-misc/gallery-dl
   visiblename: net-misc/gallery-dl
@@ -1391,46 +1353,7 @@
     - sh+ports@codevoid.de
   categories:
     - www
-- repo: pardus_21
-  subrepo: main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.18.0
-  origversion: 1.18.0-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.29.7
-  origversion: 1.29.7-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.29.7
-  origversion: 1.29.7-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - misc
-- repo: pkgsrc_2026_2
+- repo: pkgsrc_2026_3
   srcname: net/gallery-dl
   binname: gallery-dl
   visiblename: net/gallery-dl
@@ -1442,6 +1365,83 @@
     - leot@netbsd.org
   categories:
     - net
+- repo: pkgsrc_current
+  srcname: net/gallery-dl
+  binname: gallery-dl
+  visiblename: net/gallery-dl
+  version: 1.32.16
+  origversion: null
+  status: outdated
+  summary: Command-line program to download image galleries and collections
+  maintainers:
+    - leot@netbsd.org
+  categories:
+    - net
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.18.0
+  origversion: 1.18.0-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - web
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.29.7
+  origversion: 1.29.7-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - web
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.25.3
+  origversion: 1.25.3-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.29.7
+  origversion: 1.29.7-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.32.18
+  origversion: 1.32.18-1
+  status: newest
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - misc
 - repo: scoop
   subrepo: main
   binname: gallery-dl
