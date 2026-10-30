@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.32.18"
   latestRelease: "v1.32.18"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:15:42Z
+  collectedAt: 2026-10-30T06:15:19Z
 timeline:
   created: 2014-10-12
   lastCommit: 2026-10-25
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-10-25
   lastPrerelease: 
 popularity:
-  star: 20278
-  watcher: 172
-  fork: 1524
+  star: 20291
+  watcher: 173
+  fork: 1523
   release: 215
   contributor: 209
   pullRequest: 747
-  issue: 7806
+  issue: 7809
 language:
   Python: 4309973
   Shell: 71349
@@ -30,63 +30,63 @@ language:
 totalBytes: 4384233
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 4
     mergedPR: 0
     openPR: 0
-    closedIssue: 38
-    openIssue: 16
+    closedIssue: 36
+    openIssue: 19
     commit: 5
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 8
     mergedPR: 0
     openPR: 0
-    closedIssue: 92
-    openIssue: 24
+    closedIssue: 91
+    openIssue: 27
     commit: 9
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 10
     mergedPR: 0
     openPR: 0
     closedIssue: 109
-    openIssue: 29
+    openIssue: 32
     commit: 10
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 18
     mergedPR: 0
     openPR: 0
-    closedIssue: 238
-    openIssue: 73
+    closedIssue: 237
+    openIssue: 76
     commit: 22
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 30
-    mergedPR: 59
+    mergedPR: 58
     openPR: 13
-    closedIssue: 871
-    openIssue: 187
+    closedIssue: 868
+    openIssue: 189
     commit: 741
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 55
     mergedPR: 145
     openPR: 23
-    closedIssue: 2283
-    openIssue: 396
-    commit: 2117
+    closedIssue: 2281
+    openIssue: 399
+    commit: 2111
 total:
   release: 215
   mergedPR: 486
   openPR: 46
   closedIssue: 6771
-  openIssue: 1035
+  openIssue: 1038
   commit: 8007
 ---
 path: /home/runner/.x-repo/github.com/mikf/gallery-dl
-collectedAt: 2026-10-29T06:15:46Z
+collectedAt: 2026-10-30T06:15:23Z
 loc:
   Python:
     code: 103819
