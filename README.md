@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,291 · **Forks**: 1,523 · **Open issues**: 7,809 · **Contributors**: 209
+- **Stars**: 20,299 · **Forks**: 1,521 · **Open issues**: 7,809 · **Contributors**: 209
 
 ## Totals (cumulative)
 
-- **Releases**: 215 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6771 · **Open issues**: 1038 · **Commits**: 8007
+- **Releases**: 215 · **Merged PRs**: 486 · **Open PRs**: 46 · **Closed issues**: 6775 · **Open issues**: 1034 · **Commits**: 8007
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 4 | 0 | 0 | 36 | 19 | 5 |
-| last60d | 2026-08-31 | 8 | 0 | 0 | 91 | 27 | 9 |
-| 90d | 2026-08-01 | 10 | 0 | 0 | 109 | 32 | 10 |
-| last180d | 2026-05-03 | 18 | 0 | 0 | 237 | 76 | 22 |
-| 360d | 2025-11-04 | 30 | 58 | 13 | 868 | 189 | 741 |
-| last720d | 2024-11-09 | 55 | 145 | 23 | 2281 | 399 | 2111 |
+| 30d | 2026-10-01 | 4 | 0 | 0 | 39 | 15 | 5 |
+| last60d | 2026-09-01 | 8 | 0 | 0 | 90 | 23 | 9 |
+| 90d | 2026-08-02 | 9 | 0 | 0 | 113 | 28 | 10 |
+| last180d | 2026-05-04 | 17 | 0 | 0 | 240 | 72 | 22 |
+| 360d | 2025-11-05 | 30 | 58 | 13 | 867 | 183 | 741 |
+| last720d | 2024-11-10 | 55 | 145 | 23 | 2285 | 395 | 2108 |
 
 ## Distribution status
 
-Reported by **129** distros on [repology.org](https://repology.org/project/gallery-dl). **15** are ✅ on the latest upstream release, **98** are ⚠️ on an older version.
+Reported by **129** distros on [repology.org](https://repology.org/project/gallery-dl). **16** are ✅ on the latest upstream release, **97** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:15:31Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:09:13Z._
