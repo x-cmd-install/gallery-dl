@@ -1,3 +1,16 @@
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.29.7
+  origversion: 1.29.7-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - misc
 - repo: alpine_3_17
   subrepo: community
   srcname: gallery-dl
@@ -466,19 +479,6 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-2.0-or-later
-- repo: raspbian_testing
-  subrepo: main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.32.19
-  origversion: 1.32.19-1
-  status: newest
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - misc
 - repo: alpine_3_23
   subrepo: community
   srcname: gallery-dl
@@ -871,19 +871,6 @@
     - unit193@debian.org
   categories:
     - misc
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: gallery-dl
-  binnames:
-    - gallery-dl
-  visiblename: gallery-dl
-  version: 1.29.7
-  origversion: 1.29.7-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - misc
 - repo: debian_13_backports
   subrepo: trixie-backports/main
   srcname: gallery-dl
@@ -961,15 +948,6 @@
     - jbeich@freebsd.org
   categories:
     - www
-- repo: scoop
-  subrepo: main
-  binname: gallery-dl
-  visiblename: gallery-dl
-  version: 1.32.19
-  origversion: null
-  status: newest
-  licenses:
-    - GPL-2.0-only
 - repo: gentoo
   srcname: net-misc/gallery-dl
   visiblename: net-misc/gallery-dl
@@ -1089,9 +1067,9 @@
   binnames:
     - gallery-dl
   visiblename: gallery-dl
-  version: 1.32.18
-  origversion: 1.32.18-1
-  status: outdated
+  version: 1.32.19
+  origversion: 1.32.19-1
+  status: newest
   maintainers:
     - unit193@debian.org
   categories:
@@ -1200,16 +1178,6 @@
     - GPL-2
   categories:
     - net-misc
-- repo: slackbuilds
-  srcname: network/gallery-dl
-  visiblename: network/gallery-dl
-  version: 1.32.19
-  origversion: null
-  status: newest
-  maintainers:
-    - antonioleal@yahoo.com
-  categories:
-    - network
 - repo: liguros_develop
   srcname: net-misc/gallery-dl
   visiblename: net-misc/gallery-dl
@@ -1487,6 +1455,38 @@
     - unit193@debian.org
   categories:
     - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: gallery-dl
+  binnames:
+    - gallery-dl
+  visiblename: gallery-dl
+  version: 1.32.19
+  origversion: 1.32.19-1
+  status: newest
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - misc
+- repo: scoop
+  subrepo: main
+  binname: gallery-dl
+  visiblename: gallery-dl
+  version: 1.32.19
+  origversion: null
+  status: newest
+  licenses:
+    - GPL-2.0-only
+- repo: slackbuilds
+  srcname: network/gallery-dl
+  visiblename: network/gallery-dl
+  version: 1.32.19
+  origversion: null
+  status: newest
+  maintainers:
+    - antonioleal@yahoo.com
+  categories:
+    - network
 - repo: t2
   srcname: gallery-dl
   visiblename: gallery-dl
