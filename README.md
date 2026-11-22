@@ -42,41 +42,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.32.20` (2026-11-14)
-- **Last commit**: 2026-11-14
+- **Latest**: `v1.32.21` (2026-11-21)
+- **Last commit**: 2026-11-21
 
 ## Popularity
 
-- **Stars**: 20,586 · **Forks**: 1,535 · **Open issues**: 7,854 · **Contributors**: 208
+- **Stars**: 20,597 · **Forks**: 1,536 · **Open issues**: 7,854 · **Contributors**: 208
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 485 · **Open PRs**: 44 · **Closed issues**: 6846 · **Open issues**: 1008 · **Commits**: 8009
+- **Releases**: 218 · **Merged PRs**: 485 · **Open PRs**: 44 · **Closed issues**: 6849 · **Open issues**: 1005 · **Commits**: 8010
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 0 | 0 | 42 | 19 | 0 |
-| last60d | 2026-09-22 | 7 | 0 | 0 | 90 | 27 | 0 |
-| 90d | 2026-08-23 | 11 | 0 | 0 | 135 | 35 | 0 |
-| last180d | 2026-05-25 | 19 | 0 | 0 | 250 | 62 | 0 |
-| 360d | 2025-11-26 | 32 | 49 | 12 | 847 | 171 | 0 |
-| last720d | 2024-12-01 | 56 | 139 | 21 | 2246 | 369 | 2047 |
+| 30d | 2026-10-23 | 4 | 0 | 0 | 44 | 16 | 5 |
+| last60d | 2026-09-23 | 8 | 0 | 0 | 93 | 24 | 9 |
+| 90d | 2026-08-24 | 12 | 0 | 0 | 138 | 32 | 13 |
+| last180d | 2026-05-26 | 20 | 0 | 0 | 253 | 58 | 22 |
+| 360d | 2025-11-27 | 33 | 49 | 12 | 848 | 168 | 694 |
+| last720d | 2024-12-02 | 57 | 139 | 21 | 2243 | 366 | 2043 |
 
 ## Distribution status
 
-Reported by **132** distros on [repology.org](https://repology.org/project/gallery-dl). **16** are ✅ on the latest upstream release, **100** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/gallery-dl). **4** are ✅ on the latest upstream release, **112** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `1.32.20` | ✅ latest |
-| Debian 14 | `1.32.20` | ✅ latest |
+| Debian unstable | `1.32.20` | ⚠️ outdated |
+| Debian 14 | `1.32.20` | ⚠️ outdated |
 | Debian 13 | `1.29.7` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.31.10` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.26.9` | ⚠️ outdated |
-| Arch | `1.32.20` | ✅ latest |
-| Homebrew | `1.32.20` | ✅ latest |
+| Arch | `1.32.21` | ✅ latest |
+| Homebrew | `1.32.20` | ⚠️ outdated |
 | Nix unstable | `1.32.19` | ⚠️ outdated |
 | Void | `1.32.16` | ⚠️ outdated |
 | Alpine edge | `1.32.17` | ⚠️ outdated |
@@ -90,4 +90,4 @@ Install metadata for gallery-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:26:24Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:22:40Z._
