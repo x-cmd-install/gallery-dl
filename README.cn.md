@@ -47,7 +47,7 @@ x install gallery-dl
 
 ## 流行度
 
-- **Star**: 20,597 · **Fork**: 1,536 · **开放 issue**: 7,854 · **贡献者**: 208
+- **Star**: 20,621 · **Fork**: 1,539 · **开放 issue**: 7,854 · **贡献者**: 208
 
 ## 累计统计
 
@@ -57,16 +57,16 @@ x install gallery-dl
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 0 | 0 | 44 | 16 | 5 |
-| last60d | 2026-09-23 | 8 | 0 | 0 | 93 | 24 | 9 |
-| 90d | 2026-08-24 | 12 | 0 | 0 | 138 | 32 | 13 |
-| last180d | 2026-05-26 | 20 | 0 | 0 | 253 | 58 | 22 |
-| 360d | 2025-11-27 | 33 | 49 | 12 | 848 | 168 | 694 |
-| last720d | 2024-12-02 | 57 | 139 | 21 | 2243 | 366 | 2043 |
+| 30d | 2026-10-24 | 4 | 0 | 0 | 43 | 15 | 0 |
+| last60d | 2026-09-24 | 8 | 0 | 0 | 89 | 24 | 0 |
+| 90d | 2026-08-25 | 12 | 0 | 0 | 138 | 32 | 0 |
+| last180d | 2026-05-27 | 20 | 0 | 0 | 252 | 57 | 0 |
+| 360d | 2025-11-28 | 33 | 49 | 12 | 848 | 168 | 0 |
+| last720d | 2024-12-03 | 57 | 139 | 21 | 2238 | 366 | 2042 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/gallery-dl) 上共有 **132** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**112** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/gallery-dl) 上共有 **131** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**108** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -76,10 +76,10 @@ x install gallery-dl
 | Ubuntu 26.04 LTS | `1.31.10` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.26.9` | ⚠️ outdated |
 | Arch | `1.32.21` | ✅ latest |
-| Homebrew | `1.32.20` | ⚠️ outdated |
+| Homebrew | `1.32.21` | ✅ latest |
 | Nix unstable | `1.32.19` | ⚠️ outdated |
 | Void | `1.32.16` | ⚠️ outdated |
-| Alpine edge | `1.32.17` | ⚠️ outdated |
+| Alpine edge | `1.32.19` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -90,4 +90,4 @@ gallery-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T07:22:40Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T08:19:34Z._
