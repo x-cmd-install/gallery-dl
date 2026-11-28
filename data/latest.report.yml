@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.32.21"
   latestRelease: "v1.32.21"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:29:31Z
+  collectedAt: 2026-11-28T08:29:56Z
 timeline:
   created: 2014-10-12
   lastCommit: 2026-11-21
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-11-21
   lastPrerelease: 
 popularity:
-  star: 20658
+  star: 20680
   watcher: 176
   fork: 1540
   release: 218
   contributor: 208
   pullRequest: 746
-  issue: 7863
+  issue: 7866
 language:
   Python: 4309973
   Shell: 71349
@@ -30,63 +30,63 @@ language:
 totalBytes: 4384233
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 3
     mergedPR: 0
     openPR: 0
-    closedIssue: 40
-    openIssue: 18
-    commit: 3
+    closedIssue: 39
+    openIssue: 21
+    commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 7
     mergedPR: 0
     openPR: 0
-    closedIssue: 84
-    openIssue: 30
-    commit: 8
+    closedIssue: 82
+    openIssue: 33
+    commit: 0
   last90d:
-    since: 2026-08-29
-    release: 12
+    since: 2026-08-30
+    release: 11
     mergedPR: 0
     openPR: 0
-    closedIssue: 139
-    openIssue: 38
-    commit: 12
+    closedIssue: 137
+    openIssue: 40
+    commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 20
     mergedPR: 0
     openPR: 0
-    closedIssue: 247
-    openIssue: 61
-    commit: 22
+    closedIssue: 245
+    openIssue: 64
+    commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 33
     mergedPR: 49
     openPR: 12
-    closedIssue: 839
-    openIssue: 173
-    commit: 673
+    closedIssue: 836
+    openIssue: 175
+    commit: 0
   last720d:
-    since: 2024-12-07
-    release: 57
+    since: 2024-12-08
+    release: 56
     mergedPR: 136
     openPR: 21
-    closedIssue: 2224
-    openIssue: 369
-    commit: 2031
+    closedIssue: 2219
+    openIssue: 372
+    commit: 2026
 total:
   release: 218
   mergedPR: 485
   openPR: 44
   closedIssue: 6852
-  openIssue: 1011
+  openIssue: 1014
   commit: 8010
 ---
 path: /home/runner/.x-repo/github.com/mikf/gallery-dl
-collectedAt: 2026-11-27T09:29:35Z
+collectedAt: 2026-11-28T08:29:59Z
 loc:
   Python:
     code: 103819
